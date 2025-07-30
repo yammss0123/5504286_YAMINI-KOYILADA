@@ -192,7 +192,3 @@ EOF
 echo "C program created. In a real Linux environment, you would run:"
 echo "gcc sum.c && ./a.out"
 echo ""
-
-echo "=== All commands executed successfully! ==="
-echo "Note: Some commands may show errors in online environments"
-echo "due to limited permissions or missing packages." 
